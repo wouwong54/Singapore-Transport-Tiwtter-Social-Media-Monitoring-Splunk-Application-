@@ -12,6 +12,7 @@ you can read it yourself inside the Zip or Rar file
 Anyway Here are the Summary on what this splunk application does
 
 Here the keypoint on this application
+
 •	Using a python script this Splunk Application collects Tweets from all over singapore and display it onto a splunk customize dashboard. 
 
 •	Using a Splunk Addon it collects information from hardwarezone EDMW a famous  Singaporean forum 
